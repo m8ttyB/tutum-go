@@ -1,4 +1,4 @@
-qatestckage main
+package main
 
 import (
   "io"
